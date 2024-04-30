@@ -1,0 +1,19 @@
+#images{
+display: flex;
+
+}
+
+#car1{
+width: 300px;
+length: 800px;
+border-bottom: 100px;
+border-radius:45px;
+border-right:50px ;
+}
+#car2{
+    width: 300px;
+    length: 800px;
+    border-bottom: 100px;
+    border-radius:45px;
+    border-right:50px ;
+    }
